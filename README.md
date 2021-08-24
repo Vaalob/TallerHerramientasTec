@@ -5,6 +5,11 @@ El software desarrollado es una herramienta para la gestión de citas y ventas d
 
 # ISSUES
 
-•	Los problemas identificados fueron que la compañía no contaba con un software que administrada los reportes acerca de las ventas realizadas.
-•	Reportes de las citas y registro de clientes para los que era frecuentes y poder realizarles un descuento al momento de atenderlos.
-•	También no se llevaba registros de los empleados y no siempre tenían acceso a la libreta o agenda para los productos que se vendían o citas para a atender.
+•	Los problemas identificados fueron que la compañía no contaba 
+con un software que administrada los reportes acerca de las ventas realizadas.
+
+•	Reportes de las citas y registro de clientes para los que era frecuentes 
+y poder realizarles un descuento al momento de atenderlos.
+
+•	También no se llevaba registros de los empleados y no siempre tenían acceso a la libreta 
+o agenda para los productos que se vendían o citas para a atender.
