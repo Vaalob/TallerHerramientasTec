@@ -13,3 +13,7 @@ y poder realizarles un descuento al momento de atenderlos.
 
 •	También no se llevaba registros de los empleados y no siempre tenían acceso a la libreta 
 o agenda para los productos que se vendían o citas para a atender.
+
+# Tabla de contenidos (ToC)
+
+
