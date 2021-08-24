@@ -20,4 +20,15 @@ o agenda para los productos que se vendían o citas para a atender.
 
 https://github.com/Vaalob/TallerHerramientasTec/wiki/Build
 
+* Dist
+ 
+https://github.com/Vaalob/TallerHerramientasTec/wiki/Dist
+
+* Nbproject
+
+https://github.com/Vaalob/TallerHerramientasTec/wiki/nbproject
+
+*SRC
+
+https://github.com/Vaalob/TallerHerramientasTec/wiki/SRC
 
