@@ -32,3 +32,46 @@ https://github.com/Vaalob/TallerHerramientasTec/wiki/nbproject
 
 https://github.com/Vaalob/TallerHerramientasTec/wiki/SRC
 
+# Requerimientos
+
+* Software Netbeans su version 12.
+* Base de datos Xampp.
+* Version de JDK 15.
+
+# Instalacion
+
+* Descargar el proyecto del repositorio
+* Descomprimir el archivo para obtener la carpeta del producto.
+* Abrir la carpeta del proyecto
+* Abrir la carpeta dist
+* Ejecutar el archivo .jar que se encuentre en la carpeta
+
+# Configuracion
+
+* Instalar la version JDK 15 de java, ya que sin ella no se podra ejecutar el archivo
+* Configuramos el ambiente Java.
+* Instalamos la base de datos xampp, ya que sin el no podremos guardar los datos o recibirlos.
+* Configuramos xampp.
+* Introducimos los datos los cuales se pasaran al administrador para poder utilizar la plataforma y crear nuevos usuarios.
+
+# Uso
+
+* El software tiene dos niveles de usuarios que es el administrador el cual tendra unas cuantas opciones mas habilitadas que del trabajador, pero podran hacer uso sin problema de la plafatorma a pesar de que no tenga todo los permisos, que son editar las citas o crear usuarios nuevos.
+
+# Contribucion
+
+* El reppositorio ( https://github.com/Vaalob/TallerHerramientasTec/tree/Developer )
+* Se hara la direccion directa para descargar el proyecto.
+* De un lado podremos ver la opcion de clone or download
+* Podemos elegir dos opciones que es abrir en el equipo o descargar como .zip
+* Las dos opciones son viables.
+
+# Roadmap
+
+* En el transcurso del uso del software se generaran reportes para atender las zonas de mejoras y estos reportes lo haran los usuarios para verificar que mejoras se le pueden realizar al software y hacer algo de mejor calidad. Se implementaran actualizaciones y tambien se planea para futuro hacer el archivo completamente ejecutable y no tener necesidad de hacer uso de la instalacion de la plataforma de netbeans y jdk, obteniendo un base de datos en la nube y tambien su diseño de pagina web.
+
+# Desarrollador por:
+
+* José Osua
+
+* Proyecto Tecmilenio
